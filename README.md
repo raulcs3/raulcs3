@@ -16,7 +16,7 @@
 https://www.linkedin.com/in/ra%C3%BAl-corral-s%C3%A1nchez-152218161/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/asda corral sánchez](https://www.linkedin.com/in/ra%C3%BAl-corral-s%C3%A1nchez-152218161/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raúl corral sánchez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ra%C3%BAl-corral-s%C3%A1nchez-152218161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raúl corral sánchez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
